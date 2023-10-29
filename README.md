@@ -1,2 +1,2 @@
 # Karting-Adventures
-This is my game for the karting microgame on Unity.
+This is my Halloween themed game for the karting microgame on Unity.
